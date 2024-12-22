@@ -1,6 +1,6 @@
 # Wuthering Waves Private Server
 
-This program is a private server for the game Wuthering Waves. This program is server-based from Reversed Room. but you can replace the server with your own server.
+This program is a private server for the game Wuthering Waves. This program is server based from Reversed Room. but you can replace the server with your own server.
 
 [How to build and run]
 
