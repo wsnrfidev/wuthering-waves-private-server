@@ -4,8 +4,8 @@ This program is a private server for the game Wuthering Waves. This program is s
 
 [How to build and run]
 
-Open .sln
-And in the file SDKServer/Handlers/ConfigHandler.cs in the line that has the comment "Replace key" you can replace it with this key below
+1. Open .sln
+2. And in the file SDKServer/Handlers/ConfigHandler.cs in the line that has the comment "Replace key" you can replace it with this key below
 
                 AppID = "364c899beea94b92b87ae30869b492d6"
             },
@@ -15,11 +15,11 @@ And in the file SDKServer/Handlers/ConfigHandler.cs in the line that has the com
                 Sk = "MXeeVBfs0ywnleS83xiGczCPVROCnFds",
                 Name = "aki-upload-log-1319073642",
 
-Save
-And then
-Open terminal
-cd <file path>
-dotnet build
+3. Save
+4. And then
+5. Open terminal
+6. cd <file path>
+7. dotnet build
 
 Note : You can modify everythings, its open source
 
