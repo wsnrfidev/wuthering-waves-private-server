@@ -1,0 +1,26 @@
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\bin\Debug\net8.0\Protocol.deps.json
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\bin\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\bin\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.sourcelink.json
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\refint\Protocol.dll
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\Protocol\obj\Debug\net8.0\ref\Protocol.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\bin\Debug\net8.0\Protocol.deps.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\bin\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\bin\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.sourcelink.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\refint\Protocol.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Protocol\obj\Debug\net8.0\ref\Protocol.dll

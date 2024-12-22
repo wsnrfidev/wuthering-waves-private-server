@@ -1,0 +1,18 @@
+{
+  "StartingValues": {
+    "Name": "memeqs",
+    "PlayerLevel": 50,
+    "HeadPhoto": 1302,
+    "HeadFrame": 80060009,
+    "Characters": [ 1402, 1302, 1203 ],
+    "Position": {
+      "X": -45000,
+      "Y": 67800,
+      "Z": 2600
+    }
+  },
+  "Features": {
+    "TeleportByMapMark": true,
+    "UnlimitedEnergy": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnzs3NHMrXOs3o5IJwJanIAXZocqdAOvGCGBRyg3qDrIEM9P6yNPZcxasckPV5R37qs0Oc/z3IVBWXDQ4MscVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\TrafficAnalyzer\\TrafficAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\objectdumper.net\\4.1.15\\objectdumper.net.4.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

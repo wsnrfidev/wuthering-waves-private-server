@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrafficAnalyzer/1.0.0": {
+        "dependencies": {
+          "ObjectDumper.NET": "4.1.15",
+          "Protocol": "1.0.0"
+        },
+        "runtime": {
+          "TrafficAnalyzer.dll": {}
+        }
+      },
+      "Google.Protobuf/3.25.2": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.25.2.0",
+            "fileVersion": "3.25.2.0"
+          }
+        }
+      },
+      "ObjectDumper.NET/4.1.15": {
+        "runtime": {
+          "lib/net7.0/ObjectDumping.dll": {
+            "assemblyVersion": "4.1.15.0",
+            "fileVersion": "4.1.15.0"
+          }
+        }
+      },
+      "Protocol/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.25.2"
+        },
+        "runtime": {
+          "Protocol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrafficAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.25.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g/xIIeLhR77bl4ajGGbPYRmZf5acJlCRaSBqUnU8+2aQYREnZnv+UccRNndHof4mWO1ORS0b5i6on40VOjBpsg==",
+      "path": "google.protobuf/3.25.2",
+      "hashPath": "google.protobuf.3.25.2.nupkg.sha512"
+    },
+    "ObjectDumper.NET/4.1.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xmlwZs8/KuzcPIJNVC0WbI6hOykezhWuXtxdu3afy2DTWPOPpv2EJGs912Ugn5iBYdsMWfWEqDo8lgVRhV4Oiw==",
+      "path": "objectdumper.net/4.1.15",
+      "hashPath": "objectdumper.net.4.1.15.nupkg.sha512"
+    },
+    "Protocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

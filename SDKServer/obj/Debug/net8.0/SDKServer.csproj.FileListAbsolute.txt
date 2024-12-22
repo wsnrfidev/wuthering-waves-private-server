@@ -1,0 +1,52 @@
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.exe
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.deps.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.runtimeconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.sourcelink.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.SDKServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.build.SDKServer.props
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SDKServer.props
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SDKServer.props
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\scopedcss\bundle\SDKServer.styles.css
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\refint\SDKServer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WutheringWaves\SDKServer\obj\Debug\net8.0\ref\SDKServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.exe
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.deps.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.runtimeconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\bin\Debug\net8.0\SDKServer.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.sourcelink.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.SDKServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.build.SDKServer.props
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SDKServer.props
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SDKServer.props
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\scopedcss\bundle\SDKServer.styles.css
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\refint\SDKServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\SDKServer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\SDKServer\obj\Debug\net8.0\ref\SDKServer.dll

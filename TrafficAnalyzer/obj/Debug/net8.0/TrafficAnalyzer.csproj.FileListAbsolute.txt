@@ -1,0 +1,42 @@
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.exe
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.deps.json
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.runtimeconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\ObjectDumping.dll
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.sourcelink.json
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficA.C395A6C2.Up2Date
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\refint\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\ref\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.exe
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.deps.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.runtimeconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\TrafficAnalyzer.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\ObjectDumping.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\bin\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.sourcelink.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficA.C395A6C2.Up2Date
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\refint\TrafficAnalyzer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\TrafficAnalyzer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\TrafficAnalyzer\obj\Debug\net8.0\ref\TrafficAnalyzer.dll

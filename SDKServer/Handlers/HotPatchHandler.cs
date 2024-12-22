@@ -1,0 +1,13 @@
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+
+namespace SDKServer.Handlers;
+
+internal static class HotPatchHandler
+{
+    public static string OnConfigRequest() => "{\r\n    \"PackageVersion\": \"0.9.0\",\r\n    \"LauncherVersion\": \"0.9.0\",\r\n    \"ResourceVersion\": \"0.9.3\",\r\n    \"LauncherIndexSha1\": {},\r\n    \"ResourceIndexSha1\": {\r\n        \"0.9.1\": \"F9E8CE07677A58BE26B8D1A193712167A5AD7D6E\",\r\n        \"0.9.2\": \"2ACEAED17AC801D6860C61E4AFB4F9E8FB07EC71\",\r\n        \"0.9.3\": \"6627F17FAA25267DFFB6875F845DF4CFA2DE67EA\"\r\n    },\r\n    \"ChangeList\": \"1162610\",\r\n    \"CompatibleChangeLists\": [],\r\n    \"Versions\": [\r\n        {\r\n            \"Name\": \"en\",\r\n            \"Version\": \"0.9.3\",\r\n            \"IndexSha1\": {\r\n                \"0.9.1\": \"80083122F01DEFAE73F24F41F1B9D4F87B72B1BF\",\r\n                \"0.9.2\": \"1C41F2D5DF38027153F16C777B9FAD3F27578E17\",\r\n                \"0.9.3\": \"7A611990E039B3D7AD1EA505E1E9F544D310E9B8\"\r\n            }\r\n        },\r\n        {\r\n            \"Name\": \"ja\",\r\n            \"Version\": \"0.9.3\",\r\n            \"IndexSha1\": {\r\n                \"0.9.1\": \"DBA7744B8994E20BB85D993DF9D2A214A3C09460\",\r\n                \"0.9.2\": \"C22680FDAAEB25787B83800DDD1CB6C5AC66D285\",\r\n                \"0.9.3\": \"8CACF6381D82BA3B577DF804DA2599ADDD8A5AE8\"\r\n            }\r\n        },\r\n        {\r\n            \"Name\": \"ko\",\r\n            \"Version\": \"0.9.3\",\r\n            \"IndexSha1\": {\r\n                \"0.9.1\": \"DCA10D3FA125185A7F5F919FDD580474497912C6\",\r\n                \"0.9.2\": \"1FEF3B7B05A1D5C8A346E03868976217B4C49E59\",\r\n                \"0.9.3\": \"89631EAA41697A4ABFE785A53273FB50745114C9\"\r\n            }\r\n        },\r\n        {\r\n            \"Name\": \"zh\",\r\n            \"Version\": \"0.9.3\",\r\n            \"IndexSha1\": {\r\n                \"0.9.1\": \"20CCECCEBBB910C14BE3CF111037F15287CB46E7\",\r\n                \"0.9.2\": \"A176E35CFB6DB0C1CDE8B1B1EC141BD9479CFE59\",\r\n                \"0.9.3\": \"66E3A0365D324E303A56F85E347F05EBBEA56645\"\r\n            }\r\n        }\r\n    ]\r\n}";
+
+    public static string OnKeyListRequest() => "{\r\n    \"Hash\": \"da39a3ee5e6b4b0d3255bfef95601890afd80709\",\r\n    \"Random\": \"CtBIsHPiwhwOqqBYxj\",\r\n    \"Key\": \"EYA/aRYz0h2W77M07J2AHTftgGQiIcFQFpgGsdsm65Ee8YqP6uI86fIG4EWftUr7B2vLbh/U62yi21e4CeGIpr+HppDDmpprS/QTmZYQ0OX9q/KB06+4ihmwzSim1iTedixejDPQ8BP90iH7CI6Se/+BhfslZh3MxDmzzl8W9bw=\"\r\n}";
+
+    public static FileContentHttpResult OnPakDataRequest() 
+        => TypedResults.File([]);
+}

@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Google.Protobuf/3.25.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "ObjectDumper.NET/4.1.15": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/ObjectDumping.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/ObjectDumping.dll": {}
+        }
+      },
+      "Protocol/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Google.Protobuf": "3.25.2"
+        },
+        "compile": {
+          "bin/placeholder/Protocol.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Protocol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Google.Protobuf/3.25.2": {
+      "sha512": "g/xIIeLhR77bl4ajGGbPYRmZf5acJlCRaSBqUnU8+2aQYREnZnv+UccRNndHof4mWO1ORS0b5i6on40VOjBpsg==",
+      "type": "package",
+      "path": "google.protobuf/3.25.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "google.protobuf.3.25.2.nupkg.sha512",
+        "google.protobuf.nuspec",
+        "lib/net45/Google.Protobuf.dll",
+        "lib/net45/Google.Protobuf.pdb",
+        "lib/net45/Google.Protobuf.xml",
+        "lib/net5.0/Google.Protobuf.dll",
+        "lib/net5.0/Google.Protobuf.pdb",
+        "lib/net5.0/Google.Protobuf.xml",
+        "lib/netstandard1.1/Google.Protobuf.dll",
+        "lib/netstandard1.1/Google.Protobuf.pdb",
+        "lib/netstandard1.1/Google.Protobuf.xml",
+        "lib/netstandard2.0/Google.Protobuf.dll",
+        "lib/netstandard2.0/Google.Protobuf.pdb",
+        "lib/netstandard2.0/Google.Protobuf.xml"
+      ]
+    },
+    "ObjectDumper.NET/4.1.15": {
+      "sha512": "xmlwZs8/KuzcPIJNVC0WbI6hOykezhWuXtxdu3afy2DTWPOPpv2EJGs912Ugn5iBYdsMWfWEqDo8lgVRhV4Oiw==",
+      "type": "package",
+      "path": "objectdumper.net/4.1.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ObjectDumper.png",
+        "README.md",
+        "lib/net48/ObjectDumping.dll",
+        "lib/net6.0/ObjectDumping.dll",
+        "lib/net7.0/ObjectDumping.dll",
+        "lib/netstandard1.2/ObjectDumping.dll",
+        "lib/netstandard2.0/ObjectDumping.dll",
+        "lib/netstandard2.1/ObjectDumping.dll",
+        "objectdumper.net.4.1.15.nupkg.sha512",
+        "objectdumper.net.nuspec"
+      ]
+    },
+    "Protocol/1.0.0": {
+      "type": "project",
+      "path": "../Protocol/Protocol.csproj",
+      "msbuildProject": "../Protocol/Protocol.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ObjectDumper.NET >= 4.1.15",
+      "Protocol >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\TrafficAnalyzer\\TrafficAnalyzer.csproj",
+      "projectName": "TrafficAnalyzer",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\TrafficAnalyzer\\TrafficAnalyzer.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\TrafficAnalyzer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\Protocol\\Protocol.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\Protocol\\Protocol.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "ObjectDumper.NET": {
+            "target": "Package",
+            "version": "[4.1.15, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

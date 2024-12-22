@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\bin\Debug\net8.0\KcpSharp.deps.json
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\bin\Debug\net8.0\KcpSharp.dll
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\bin\Debug\net8.0\KcpSharp.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.sourcelink.json
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.dll
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\refint\KcpSharp.dll
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\KcpSharp\obj\Debug\net8.0\ref\KcpSharp.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\bin\Debug\net8.0\KcpSharp.deps.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\bin\Debug\net8.0\KcpSharp.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\bin\Debug\net8.0\KcpSharp.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.sourcelink.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\refint\KcpSharp.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\KcpSharp.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\KcpSharp\obj\Debug\net8.0\ref\KcpSharp.dll

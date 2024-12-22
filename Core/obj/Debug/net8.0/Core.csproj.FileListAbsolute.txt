@@ -1,0 +1,38 @@
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\data\config\blueprint\blueprintconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\data\config\item\iteminfo.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\data\config\level_entity\levelentityconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\data\config\property\baseproperty.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\data\config\role\roleinfo.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\data\config\weapon\weaponconf.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Administrator\source\repos\WutheringWaves\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\data\config\blueprint\blueprintconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\data\config\item\iteminfo.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\data\config\level_entity\levelentityconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\data\config\property\baseproperty.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\data\config\role\roleinfo.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\data\config\weapon\weaponconf.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\Core\obj\Debug\net8.0\ref\Core.dll

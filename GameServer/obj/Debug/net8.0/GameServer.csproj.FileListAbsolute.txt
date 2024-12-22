@@ -1,0 +1,124 @@
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\blueprint\blueprintconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\item\iteminfo.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\level_entity\levelentityconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\property\baseproperty.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\role\roleinfo.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\weapon\weaponconf.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\gameplay.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.exe
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.deps.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.runtimeconfig.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Core.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\KcpSharp.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Core.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\KcpSharp.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\bin\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.sourcelink.json
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.csproj.Up2Date
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\refint\GameServer.dll
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.pdb
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WutheringWaves\GameServer\obj\Debug\net8.0\ref\GameServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\blueprint\blueprintconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\item\iteminfo.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\level_entity\levelentityconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\property\baseproperty.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\role\roleinfo.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\data\config\weapon\weaponconf.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\gameplay.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.exe
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.deps.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.runtimeconfig.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\GameServer.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Core.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\KcpSharp.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Protocol.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Core.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\KcpSharp.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\bin\Debug\net8.0\Protocol.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.sourcelink.json
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.csproj.Up2Date
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\refint\GameServer.dll
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.pdb
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\GameServer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\GAME PROJECT\GAME SERVER\WutheringWaves\GameServer\obj\Debug\net8.0\ref\GameServer.dll

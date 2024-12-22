@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3Fqo9HjcYXX+C3fsPQCHacO2QrFRewhOwkHigfGeZGYp095Spa4jg97uSCdPpvee/e7VE/igSX/uVuz0QWoiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\GAME PROJECT\\GAME SERVER\\WutheringWavesPrivateServer\\Protocol\\Protocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\grpc.tools\\2.60.0\\grpc.tools.2.60.0.nupkg.sha512"
+  ],
+  "logs": []
+}
