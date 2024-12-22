@@ -16,11 +16,10 @@ This program is a private server for the game Wuthering Waves. This program is s
                 Name = "aki-upload-log-1319073642",
 
 3. Save
-4. And then
-5. Open terminal
-6. cd (file path)
-7. dotnet build
-
+4. Open terminal
+5. Type "dotnet build" on terminal
+6. All done
+7. 
 Note : You can modify everythings, its open source
 
 # Preview
