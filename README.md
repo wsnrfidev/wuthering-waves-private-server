@@ -18,7 +18,7 @@ This program is a private server for the game Wuthering Waves. This program is s
 3. Save
 4. And then
 5. Open terminal
-6. cd <file path>
+6. cd (file path)
 7. dotnet build
 
 Note : You can modify everythings, its open source
